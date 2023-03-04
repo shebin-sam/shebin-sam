@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shebin-sam
 - 👀 I’m interested in Machine Learning ,Smart Cities
-- 🌱 I’m currently learning Machine Learning,FLutter
+- 🌱 I’m currently learning Machine Learning,App Development
 - 💞️ I’m looking to collaborate on Smart City ,Machine Learning Projects
 - 📫 How to reach me samshebin294@gamil.com
 
