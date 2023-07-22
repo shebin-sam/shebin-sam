@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shebin-sam
-- 👀 I’m interested in Machine Learning ,Smart Cities
-- 🌱 I’m currently learning Machine Learning,App Development
-- 💞️ I’m looking to collaborate on Smart City ,Machine Learning Projects
+- 👀 I’m interested in Blockchain ,Smart Cities
+- 🌱 I’m currently learning Blockchain,Web3/App Development
+- 💞️ I’m looking to collaborate on Blockchain Projects
 - 📫 How to reach me samshebin294@gamil.com
 
 <!---
