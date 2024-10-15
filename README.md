@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @shebin-sam<br>👀 I’m interested in Artificial Intelligence, Large Language Models , Computer Vision, Blockchain ,Smart Cities<br>🌱 I’m currently learning Large Language Models, Artificial Intelligence ,App Development<br>💞️ I’m looking to collaborate on Generative AI and Computer Vison Projects<br>📫 How to reach me samshebin294@gamil.com
+👋 Hi, I’m Shebin Sam<br>👀 I’m interested in Artificial Intelligence, Large Language Models , Computer Vision, Blockchain ,Smart Cities<br>🌱 I’m currently learning Large Language Models, Artificial Intelligence ,App Development<br>💞️ I’m looking to collaborate on Generative AI and Computer Vison Projects<br>📫 How to reach me samshebin294@gamil.com
 
 
 ## 🌐 Socials:
